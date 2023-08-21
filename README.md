@@ -8,3 +8,7 @@ This script allows you to define three custom classes and then to draw the respe
 This is the very first prototype and the code is not clean at all
 Also there may be a couple of bugs
 A lot of exceptions are not handled
+
+## A Preview :
+
+![image](https://github.com/rajath008/shape-classifier-python/assets/106469287/c72e98f9-f37c-40fa-bab5-df7a846c6ae7)
